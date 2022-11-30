@@ -31,22 +31,6 @@
 
 Feel free to reach out about issues in any project you find.
 
-##### Find me here:
-
-
-<p align = "center">
-
-<a href="https://www.linkedin.com/in/adityaraute">
-  <img align="center" alt="LinkedIn" width="40px" margin="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@rauteaditya799">
-  <img align="center" alt="Medium" width="40px"  margin="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
- </p>
-
-
-##### *Thanks for visiting*
-
 <!--
 
 
