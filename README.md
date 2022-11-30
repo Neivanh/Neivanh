@@ -1,7 +1,7 @@
 
 
-<p align="center" font-size="300px">Github Stats:</p>
-<p align="center">
+<h1 align="center">Github Stats</p>
+<h1 align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=neivanh&show_icons=true&theme=dracula&count_private=true" />
 </p>
 
