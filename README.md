@@ -6,7 +6,7 @@
 </p>
 
 <p align = "right">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neivanh&theme=transparent" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neivanh&theme=transparent" />
 </p>
 
 
