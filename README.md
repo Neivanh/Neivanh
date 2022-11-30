@@ -1,6 +1,6 @@
 
 
-<p align="center">**Github Stats:**</p>
+<p align="center">Github Stats:</p>
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=neivanh&show_icons=true&theme=dracula&count_private=true" />
 </p>
