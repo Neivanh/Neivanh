@@ -1,18 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=daa520&height=100&width=1000&lines=Namaste+🙏;I+am+Aditya+Raute+🕶️;Feel+free+to+look+around.;Reach+out+if+you+need+help!)](https://git.io/typing-svg)
-
-<!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)](#) -->
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
-
-
- 
-
-
-<!-- ### About me: 🤗😀 
-
- dumbcoder7 Write it Yourself
- 
- -->
 
 
 **Github Stats:**
